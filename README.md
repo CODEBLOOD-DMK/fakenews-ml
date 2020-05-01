@@ -1,5 +1,5 @@
 fakenews-ml
-# Detecting Fake News – ML using Python
+# DETECTING FAKE NEWS – ML USING PYTHON
 
 Note: This coding solution was developed on 1st May 2020 when the World is in a critical condition dealing with the SARS CoV-2 or COVID 19 Virus which has turned into global pandemic. In this extreme situation, there has been an escalation in fake news circulation. There may be several reasons behind it and that is why tracing every single source and discontinuing the further spread of such misinformation may be a tedious task in itself and is probably impossible. Fake News can have serious impact and there is a necessity of somehow identifying whether a particular news is fake or true. 
 
